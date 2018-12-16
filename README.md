@@ -1,13 +1,15 @@
-# README
+# Chat App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+An effort to create a chat app in react and rails with PWA enabled and using the best practices of web development.
 
 * Ruby version
+2.5.3
 
 * System dependencies
+
+Node(latest)
+MySQL
+Yarn(latest)
 
 * Configuration
 
