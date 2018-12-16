@@ -96,6 +96,7 @@ GEM
     minitest (5.11.3)
     msgpack (1.2.4)
     multi_json (1.13.1)
+    mysql2 (0.5.2)
     nio4r (2.3.1)
     nokogiri (1.8.5)
       mini_portile2 (~> 2.3.0)
@@ -207,6 +208,7 @@ DEPENDENCIES
   chromedriver-helper
   jbuilder (~> 2.5)
   listen (>= 3.0.5, < 3.2)
+  mysql2
   puma (~> 3.11)
   rails (~> 5.2.2)
   sass-rails (~> 5.0)
